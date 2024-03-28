@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Artik530 (63d002a2-ff83-4470-ba66-ba94c0b16d9b)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/Database" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="JetsonNano (44843bf3-e190-417c-a14d-f603ef9461a8)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.lE3rgxmupD" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="RK3588S (140bf4d6-8177-4c82-b5e9-3bad49edaa3e)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.ZOMt6g9knl" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
